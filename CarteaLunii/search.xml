@@ -9,7 +9,7 @@
     <query-time-seconds>0.15</query-time-seconds>
     <results>
         <work>
-  <id type="integer">3338973</id>
+  <id type="integer">3338963</id>
   <books_count type="integer">381</books_count>
   <ratings_count type="integer">2451703</ratings_count>
   <text_reviews_count type="integer">27610</text_reviews_count>
