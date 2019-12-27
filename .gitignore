@@ -1,14 +1,14 @@
-# Compiled class file
-*.class
 
-# Log file
+*.class
+*.properties
+TestConnect.java
+search2.xml
 *.log
+
 
 # BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar

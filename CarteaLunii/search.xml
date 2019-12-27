@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <search>
+  <query><![CDATA[Robert]]></query>
+    <results-start>1</results-start>
+    <results-end>20</results-end>
+    <total-results>354524</total-results>
+    <source>Goodreads</source>
+    <query-time-seconds>0.15</query-time-seconds>
+    <results>
+        <work>
+  <id type="integer">3338963</id>
+  <books_count type="integer">381</books_count>
+  <ratings_count type="integer">2451703</ratings_count>
+  <text_reviews_count type="integer">27610</text_reviews_count>
+  <original_publication_year type="integer">2000</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.89</average_rating>
+  <best_book type="Book">
+    <id type="integer">960</id>
+    <title>Angels &amp; Demons (Robert Langdon, #1)</title>
+    <author>
+      <id type="integer">630</id>
+      <name>Dan Brown</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY160_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">2982101</id>
+  <books_count type="integer">444</books_count>
+  <ratings_count type="integer">1764582</ratings_count>
+  <text_reviews_count type="integer">45021</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <average_rating>3.83</average_rating>
+  <best_book type="Book">
+    <id type="integer">968</id>
+    <title>The Da Vinci Code (Robert Langdon, #2)</title>
+    <author>
+      <id type="integer">630</id>
+      <name>Dan Brown</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551244853l/968._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551244853l/968._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">23841765</id>
+  <books_count type="integer">284</books_count>
+  <ratings_count type="integer">431258</ratings_count>
+  <text_reviews_count type="integer">36185</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">14</original_publication_day>
+  <average_rating>3.84</average_rating>
+  <best_book type="Book">
+    <id type="integer">17212231</id>
+    <title>Inferno (Robert Langdon, #4)</title>
+    <author>
+      <id type="integer">630</id>
+      <name>Dan Brown</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">6600281</id>
+  <books_count type="integer">261</books_count>
+  <ratings_count type="integer">483731</ratings_count>
+  <text_reviews_count type="integer">26279</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <average_rating>3.70</average_rating>
+  <best_book type="Book">
+    <id type="integer">6411961</id>
+    <title>The Lost Symbol (Robert Langdon, #3)</title>
+    <author>
+      <id type="integer">630</id>
+      <name>Dan Brown</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">52935032</id>
+  <books_count type="integer">159</books_count>
+  <ratings_count type="integer">215817</ratings_count>
+  <text_reviews_count type="integer">21758</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.85</average_rating>
+  <best_book type="Book">
+    <id type="integer">32283133</id>
+    <title>Origin (Robert Langdon, #5)</title>
+    <author>
+      <id type="integer">630</id>
+      <name>Dan Brown</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507308545l/32283133._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507308545l/32283133._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">22002305</id>
+  <books_count type="integer">169</books_count>
+  <ratings_count type="integer">439624</ratings_count>
+  <text_reviews_count type="integer">31857</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <average_rating>3.86</average_rating>
+  <best_book type="Book">
+    <id type="integer">16160797</id>
+    <title>The Cuckoo's Calling (Cormoran Strike, #1)</title>
+    <author>
+      <id type="integer">383606</id>
+      <name>Robert Galbraith</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136l/16160797._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136l/16160797._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">366182</id>
+  <books_count type="integer">93</books_count>
+  <ratings_count type="integer">44312</ratings_count>
+  <text_reviews_count type="integer">654</text_reviews_count>
+  <original_publication_year type="integer">1930</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.25</average_rating>
+  <best_book type="Book">
+    <id type="integer">95819</id>
+    <title>The Poetry of Robert Frost</title>
+    <author>
+      <id type="integer">7715</id>
+      <name>Robert Frost</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">2008238</id>
+  <books_count type="integer">119</books_count>
+  <ratings_count type="integer">346375</ratings_count>
+  <text_reviews_count type="integer">10784</text_reviews_count>
+  <original_publication_year type="integer">1990</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <average_rating>4.19</average_rating>
+  <best_book type="Book">
+    <id type="integer">228665</id>
+    <title>The Eye of the World (The Wheel of Time, #1)</title>
+    <author>
+      <id type="integer">6252</id>
+      <name>Robert Jordan</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337818095l/228665._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337818095l/228665._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">859111</id>
+  <books_count type="integer">159</books_count>
+  <ratings_count type="integer">374923</ratings_count>
+  <text_reviews_count type="integer">4459</text_reviews_count>
+  <original_publication_year type="integer">1980</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">4</original_publication_day>
+  <average_rating>4.01</average_rating>
+  <best_book type="Book">
+    <id type="integer">7869</id>
+    <title>The Bourne Identity (Jason Bourne, #1)</title>
+    <author>
+      <id type="integer">5293</id>
+      <name>Robert Ludlum</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335860740l/7869._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335860740l/7869._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">3164921</id>
+  <books_count type="integer">4095</books_count>
+  <ratings_count type="integer">337715</ratings_count>
+  <text_reviews_count type="integer">11262</text_reviews_count>
+  <original_publication_year type="integer">1886</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <average_rating>3.81</average_rating>
+  <best_book type="Book">
+    <id type="integer">51496</id>
+    <title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+    <author>
+      <id type="integer">854076</id>
+      <name>Robert Louis Stevenson</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">3077988</id>
+  <books_count type="integer">4533</books_count>
+  <ratings_count type="integer">367491</ratings_count>
+  <text_reviews_count type="integer">10238</text_reviews_count>
+  <original_publication_year type="integer">1882</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <average_rating>3.83</average_rating>
+  <best_book type="Book">
+    <id type="integer">295</id>
+    <title>Treasure Island</title>
+    <author>
+      <id type="integer">854076</id>
+      <name>Robert Louis Stevenson</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485248909l/295._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485248909l/295._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">25639104</id>
+  <books_count type="integer">146</books_count>
+  <ratings_count type="integer">196628</ratings_count>
+  <text_reviews_count type="integer">16280</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <average_rating>4.04</average_rating>
+  <best_book type="Book">
+    <id type="integer">18214414</id>
+    <title>The Silkworm (Cormoran Strike, #2)</title>
+    <author>
+      <id type="integer">383606</id>
+      <name>Robert Galbraith</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217126l/18214414._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217126l/18214414._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">3366043</id>
+  <books_count type="integer">232</books_count>
+  <ratings_count type="integer">286829</ratings_count>
+  <text_reviews_count type="integer">11041</text_reviews_count>
+  <original_publication_year type="integer">1997</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.04</average_rating>
+  <best_book type="Book">
+    <id type="integer">69571</id>
+    <title>Rich Dad, Poor Dad</title>
+    <author>
+      <id type="integer">600</id>
+      <name>Robert T. Kiyosaki</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">30474</id>
+  <books_count type="integer">43</books_count>
+  <ratings_count type="integer">196276</ratings_count>
+  <text_reviews_count type="integer">3895</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <average_rating>4.27</average_rating>
+  <best_book type="Book">
+    <id type="integer">138398</id>
+    <title>The Walking Dead, Vol. 1: Days Gone Bye</title>
+    <author>
+      <id type="integer">12425</id>
+      <name>Robert Kirkman</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389233242l/138398._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389233242l/138398._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">1574475</id>
+  <books_count type="integer">90</books_count>
+  <ratings_count type="integer">204026</ratings_count>
+  <text_reviews_count type="integer">4185</text_reviews_count>
+  <original_publication_year type="integer">1990</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.23</average_rating>
+  <best_book type="Book">
+    <id type="integer">233649</id>
+    <title>The Great Hunt (The Wheel of Time, #2)</title>
+    <author>
+      <id type="integer">6252</id>
+      <name>Robert Jordan</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">245494</id>
+  <books_count type="integer">1949</books_count>
+  <ratings_count type="integer">3400245</ratings_count>
+  <text_reviews_count type="integer">61508</text_reviews_count>
+  <original_publication_year type="integer">1925</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.91</average_rating>
+  <best_book type="Book">
+    <id type="integer">21048933</id>
+    <title>The Great Gatsby</title>
+    <author>
+      <id type="integer">3190</id>
+      <name>F. Scott Fitzgerald</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">277308</id>
+  <books_count type="integer">61</books_count>
+  <ratings_count type="integer">186010</ratings_count>
+  <text_reviews_count type="integer">4988</text_reviews_count>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <average_rating>4.35</average_rating>
+  <best_book type="Book">
+    <id type="integer">310259</id>
+    <title>Love You Forever</title>
+    <author>
+      <id type="integer">6039100</id>
+      <name>Robert Munsch</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">908211</id>
+  <books_count type="integer">152</books_count>
+  <ratings_count type="integer">260548</ratings_count>
+  <text_reviews_count type="integer">7503</text_reviews_count>
+  <original_publication_year type="integer">1961</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.92</average_rating>
+  <best_book type="Book">
+    <id type="integer">350</id>
+    <title>Stranger in a Strange Land</title>
+    <author>
+      <id type="integer">205</id>
+      <name>Robert A. Heinlein</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">791061</id>
+  <books_count type="integer">73</books_count>
+  <ratings_count type="integer">195866</ratings_count>
+  <text_reviews_count type="integer">3358</text_reviews_count>
+  <original_publication_year type="integer">1991</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <average_rating>4.25</average_rating>
+  <best_book type="Book">
+    <id type="integer">34897</id>
+    <title>The Dragon Reborn (The Wheel of Time, #3)</title>
+    <author>
+      <id type="integer">6252</id>
+      <name>Robert Jordan</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480096580l/34897._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480096580l/34897._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">43699375</id>
+  <books_count type="integer">4</books_count>
+  <ratings_count type="integer">145611</ratings_count>
+  <text_reviews_count type="integer">13254</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">20</original_publication_day>
+  <average_rating>4.21</average_rating>
+  <best_book type="Book">
+    <id type="integer">40611999</id>
+    <title>Career of Evil (Cormoran Strike, #3)</title>
+    <author>
+      <id type="integer">383606</id>
+      <name>Robert Galbraith</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529685910l/40611999._SY160_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529685910l/40611999._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+    </results>
+</search>
+
+</GoodreadsResponse>
